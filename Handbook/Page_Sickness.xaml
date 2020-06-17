@@ -1,0 +1,25 @@
+﻿<Page x:Class="Handbook.Page_Sickness"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Handbook"
+      mc:Ignorable="d" 
+      d:DesignHeight="1024" d:DesignWidth="1280"
+      Title="Page_Sickness" >
+
+    <Grid>
+        <!-- <Image Source="/Resources/background_with_shadows_1280x1024.png" Grid.RowSpan="2"/> -->
+        <Image Source="/Resources/background_with_shadows_1280x1024_phone.png" />
+
+        <ScrollViewer Margin="46,163,44,263">
+            <StackPanel>
+                <TextBlock x:Name="textBlock_MainText" HorizontalAlignment="Left" FontSize="20" FontFamily="Calibry" FontWeight="Medium" Foreground="White" TextWrapping="Wrap" VerticalAlignment="Top"  Height="Auto" Width="1165"/>
+                <TextBlock x:Name="textBlock_ReferencesSymptom" HorizontalAlignment="Left" FontSize="20" FontFamily="Calibry" FontWeight="Medium" Foreground="White" TextWrapping="Wrap" VerticalAlignment="Top"  Height="Auto" Width="1165"/>
+              </StackPanel>
+        </ScrollViewer>
+
+        <Image Source="/Resources/back_to_main.png" Margin="520,761,522,71" MouseDown="Image_MouseDown"/>
+        <TextBlock x:Name="textBlock_Title" Margin="292,60,294,0" TextWrapping="Wrap"  FontSize="40" FontFamily="Calibry" FontWeight="Bold" TextAlignment="Center" VerticalAlignment="Top" Height="66" Foreground="#FF934088"/>
+    </Grid>
+</Page>

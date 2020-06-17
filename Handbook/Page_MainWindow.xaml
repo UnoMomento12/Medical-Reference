@@ -1,0 +1,42 @@
+﻿<Page x:Class="Handbook.Page_MainWindow"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Handbook"
+      mc:Ignorable="d" 
+      d:DesignHeight="1024" d:DesignWidth="1280"
+      Title="Page_MainWindow">
+
+    <Page.Resources>
+        <DropShadowEffect x:Key="dropShadow" BlurRadius="25" Direction="350" Opacity="0.4" Color="Gray"/>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="Effect" Value="{StaticResource dropShadow}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="bdr" CornerRadius="30" Margin="3" BorderThickness="1" BorderBrush="Black" Background="White">
+                            <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center" ContentSource="Content" TextBlock.FontSize="36" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <Grid >
+
+       <!-- <Image Source="/Resources/background_with_shadows_1280x1024.png" Grid.RowSpan="2"/> -->
+        <Image Source="/Resources/background_with_shadows_1280x1024_phone.png" />
+
+        <Image Source="/Resources/logo.png" Margin="50,57,1061,907" />
+        <Image x:Name="button_search" Source="/Resources/button_find.png" Margin="1006,0,78,867" MouseDown="button_search_MouseDown"/>
+        <Image x:Name="button_choose_subject" Source="/Resources/choose_subject_2.png" Margin="862,151,70,512" MouseDown="button_choose_subject_MouseDown" Grid.Row="1"/>
+        <Image x:Name="button_institutions" Source="/Resources/institutions_2.png" Margin="862,345,70,350" MouseDown="button_institutions_MouseDown" Grid.Row="1" />
+        <Image x:Name="button_admin_root" Source="/Resources/admin_root_2.png" Margin="862,585,70,240" MouseDown="button_admin_root_MouseDown" />
+        <TextBlock x:Name="textBlock_time" FontSize="28" HorizontalAlignment="Left" Margin="284,64,0,0" TextWrapping="Wrap" Text="00:00" VerticalAlignment="Top" Height="34" Width="87" Foreground="White"/>
+        <TextBlock x:Name="textBlock_day" FontSize="28" HorizontalAlignment="Left" Margin="376,64,0,0" TextWrapping="Wrap" Text="|   " VerticalAlignment="Top" Height="53" Width="242" Foreground="White"/>
+        <Rectangle Fill="#FFF4F4F5" Height="1" Margin="50,160,90,0" Stroke="White" VerticalAlignment="Top"/>
+    </Grid>
+</Page>

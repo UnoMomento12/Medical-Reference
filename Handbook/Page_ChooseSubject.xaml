@@ -1,0 +1,22 @@
+﻿<Page x:Class="Handbook.Page_ChooseSubject"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Handbook"
+      mc:Ignorable="d" 
+      d:DesignHeight="1024" d:DesignWidth="1280"
+      Title="Page_ChooseSubject">
+
+    <Grid>
+        <!-- <Image Source="/Resources/background_with_shadows_1280x1024.png" Grid.RowSpan="2"/> -->
+        <Image Source="/Resources/background_with_shadows_1280x1024_phone.png" />
+
+        <Image Source="/Resources/button_symptom.png" Margin="410,96,420,716" MouseDown="Image_MouseDown_1" />
+        <Image Source="/Resources/button_sickness.png" Margin="410,332,420,492" MouseDown="Image_MouseDown_2"/>
+        <Image Source="/Resources/button_medicine.png" Margin="410,542,420,268" MouseDown="Image_MouseDown_3" />
+
+        <Image Source="/Resources/back_to_main.png" Margin="520,761,522,71" MouseDown="Image_MouseDown" />
+
+    </Grid>
+</Page>

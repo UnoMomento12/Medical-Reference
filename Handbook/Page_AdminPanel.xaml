@@ -1,0 +1,24 @@
+﻿<Page x:Class="Handbook.Page_AdminPanel"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Handbook"
+      mc:Ignorable="d" 
+      d:DesignHeight="1024" d:DesignWidth="1280"
+      Title="Page_AdminPanel" Background="#FF70D1A5">
+
+    <Grid>
+        <Image Source="/Resources/background_with_shadows_1280x1024.png"/> 
+        <!--  <Image Source="/Resources/background_with_shadows_1280x1024_phone.png" />-->
+
+        <Image Source="/Resources/edit_cost.png" Margin="428,164,426,664" MouseDown="MouseDown_EditCost"/>
+        <Image Source="/Resources/add_new_inst.png" Margin="428,365,426,463" MouseDown="MouseDown_AddNewInst"/>
+        <Image Source="/Resources/edit_inst.png" Margin="428,566,426,262" MouseDown="MouseDown_EditInst"/>
+
+        <Image Source="/Resources/exit.png" Margin="494,800,494,70" MouseDown="MouseDown_Exit" />
+
+        <TextBlock Margin="292,74,294,0" TextWrapping="Wrap"  FontSize="40" FontFamily="Calibry" Text="Панель адміністратора" FontWeight="Normal" TextAlignment="Center" VerticalAlignment="Top" Height="66" Foreground="White"/>
+
+    </Grid>
+</Page>

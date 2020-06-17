@@ -1,0 +1,224 @@
+D:\University\Курсова\Code\Handbook\Handbook\bin\Release\Handbook.exe.config
+D:\University\Курсова\Code\Handbook\Handbook\bin\Release\Handbook.exe
+D:\University\Курсова\Code\Handbook\Handbook\bin\Release\Handbook.pdb
+D:\University\Курсова\Code\Handbook\Handbook\bin\Release\MySql.Data.dll
+D:\University\Курсова\Code\Handbook\Handbook\bin\Release\MySql.Data.xml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\MainWindow.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_ChooseMedicine.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_ChooseSickness.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_ChooseSubject.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_ChooseSymptom.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_Institutions.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_MainWindow.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_Search.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\App.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Handbook_MarkupCompile.cache
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Handbook_MarkupCompile.lref
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\MainWindow.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_ChooseMedicine.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_ChooseSickness.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_ChooseSubject.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_ChooseSymptom.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_Institutions.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_MainWindow.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_Search.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Handbook.g.resources
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Handbook.Properties.Resources.resources
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Handbook.csproj.GenerateResource.Cache
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Handbook.exe
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Handbook.pdb
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Handbook.csprojResolveAssemblyReference.cache
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_Medicine.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_Organ.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_Sickness.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_Symptom.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_Medicine.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_Organ.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_Sickness.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_Symptom.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_ResultSearch.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_ResultSearch.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_AdminPanel.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_ChooseMedicineCost.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_MedicineCost.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_Pass.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_AdminPanel.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_ChooseMedicineCost.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_MedicineCost.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_Pass.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_AddNewInstitution.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_AddNewInstitution.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_ChooseInts.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_ChooseInts.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_EditInst.g.cs
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Page_EditInst.baml
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Interop.Shell32.dll
+D:\University\Курсова\Code\Handbook\Handbook\obj\Release\Handbook.csproj.ResolveComReference.cache
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\bin\Release\Handbook.exe.config
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\bin\Release\Handbook.exe
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\bin\Release\Handbook.pdb
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\bin\Release\MySql.Data.dll
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\bin\Release\MySql.Data.xml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Handbook.csprojResolveAssemblyReference.cache
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Interop.Shell32.dll
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Handbook.csproj.ResolveComReference.cache
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\MainWindow.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_AddNewInstitution.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_AdminPanel.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseInts.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseMedicine.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseMedicineCost.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseSickness.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseSubject.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseSymptom.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_EditInst.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_Institutions.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_MainWindow.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_Medicine.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_MedicineCost.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_Organ.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_Pass.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_ResultSearch.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_Search.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_Sickness.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_Symptom.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\App.g.cs
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Handbook_MarkupCompile.cache
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Handbook_MarkupCompile.lref
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\MainWindow.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_AddNewInstitution.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_AdminPanel.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseInts.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseMedicine.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseMedicineCost.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseSickness.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseSubject.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseSymptom.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_EditInst.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_Institutions.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_MainWindow.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_Medicine.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_MedicineCost.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_Organ.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_Pass.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_ResultSearch.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_Search.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_Sickness.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Page_Symptom.baml
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Handbook.g.resources
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Handbook.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Handbook.csproj.GenerateResource.Cache
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Handbook.exe
+C:\Users\Кирилл\Desktop\РУП\Курсова БД\Курсова БД\Диск\Application\Handbook\Handbook\obj\Release\Handbook.pdb
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\bin\Release\Handbook.exe.config
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\bin\Release\Handbook.exe
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\bin\Release\Handbook.pdb
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\bin\Release\MySql.Data.dll
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\bin\Release\MySql.Data.xml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Handbook.csprojResolveAssemblyReference.cache
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Interop.Shell32.dll
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Handbook.csproj.ResolveComReference.cache
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\MainWindow.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_AddNewInstitution.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_AdminPanel.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseInts.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseMedicine.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseMedicineCost.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseSickness.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseSubject.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseSymptom.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_EditInst.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_Institutions.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_MainWindow.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_Medicine.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_MedicineCost.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_Organ.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_Pass.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_ResultSearch.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_Search.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_Sickness.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_Symptom.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\App.g.cs
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Handbook_MarkupCompile.cache
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Handbook_MarkupCompile.lref
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\MainWindow.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_AddNewInstitution.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_AdminPanel.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseInts.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseMedicine.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseMedicineCost.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseSickness.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseSubject.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_ChooseSymptom.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_EditInst.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_Institutions.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_MainWindow.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_Medicine.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_MedicineCost.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_Organ.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_Pass.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_ResultSearch.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_Search.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_Sickness.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Page_Symptom.baml
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Handbook.g.resources
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Handbook.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Handbook.csproj.GenerateResource.Cache
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Handbook.exe
+C:\Users\Кирилл\Desktop\Диск\Application\Handbook\Handbook\obj\Release\Handbook.pdb
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\bin\Release\Handbook.exe.config
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\bin\Release\Handbook.exe
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\bin\Release\Handbook.pdb
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\bin\Release\MySql.Data.xml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Handbook.csprojAssemblyReference.cache
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Interop.Shell32.dll
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Handbook.csproj.ResolveComReference.cache
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\MainWindow.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_AddNewInstitution.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_AdminPanel.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_ChooseInts.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_ChooseMedicine.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_ChooseMedicineCost.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_ChooseSickness.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_ChooseSubject.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_ChooseSymptom.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_EditInst.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_Institutions.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_MainWindow.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_Medicine.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_MedicineCost.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_Organ.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_Pass.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_ResultSearch.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_Search.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_Sickness.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_Symptom.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\App.g.cs
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Handbook_MarkupCompile.cache
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Handbook_MarkupCompile.lref
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\MainWindow.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_AddNewInstitution.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_AdminPanel.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_ChooseInts.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_ChooseMedicine.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_ChooseMedicineCost.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_ChooseSickness.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_ChooseSubject.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_ChooseSymptom.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_EditInst.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_Institutions.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_MainWindow.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_Medicine.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_MedicineCost.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_Organ.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_Pass.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_ResultSearch.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_Search.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_Sickness.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Page_Symptom.baml
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Handbook.g.resources
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Handbook.Properties.Resources.resources
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Handbook.csproj.GenerateResource.cache
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Handbook.csproj.CopyComplete
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Handbook.exe
+D:\5 курс 2 семестр\МедДовідник\Application\Handbook\Handbook\obj\Release\Handbook.pdb
